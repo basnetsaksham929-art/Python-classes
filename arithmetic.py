@@ -72,6 +72,8 @@ print(True or 1/0) # → True (no ZeroDivisionError!)
 
 # &
 print(5&3) 
+# &
+print(5&3)
 
 # ^
 print(5^3)
