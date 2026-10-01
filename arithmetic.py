@@ -70,6 +70,8 @@ print(False and 1/0) # → False (no ZeroDivisionError!)
 print(True or 1/0) # → True (no ZeroDivisionError!) 
 # or ko case ma false rakhyoo bhane error aaucha kina ki aauta false bhaye pani arko check garchha ani ma 1/0 cha ani thats not possiblle
 
+# &
+print(5&3) 
 
 # ^
 print(5^3)
