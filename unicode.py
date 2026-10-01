@@ -10,4 +10,14 @@ print('kite' < 'lemon')
 print('mango' < 'nose')
 print('orange' < 'pasta')
 print('query' < 'rose')
+
+# 98 kun alphaet hoki number ho bhaneraa tha hunchha
+
 print(chr(98))
+
+
+# ord le chai a ko unicode number kun ho bhaneraa bhanchha
+
+print(ord('a'))
+
+print("🥹")
